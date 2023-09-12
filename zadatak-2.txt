@@ -1,0 +1,9 @@
+Početno stanje aplikacije je završno stanje aplikacije iz prethodne vježbe.
+
+	1. U vježbi je potrebno definirati polje korisnici iz prethodne vježbe unutar stanja (statea) komponente App
+	2. Unutar stanja (statea) komponente App pored polja korisnici potrebno je definirati proizvoljnu tekstualnu varijablu
+	3. Prikazati na ekranu vrijednosti iz stanja (statea), a proizvoljnu vrijednost prikazati preko children propsa.
+    4. Potrebno je dodati button
+	5. Pritiskom na button potrebno je promijeniti godine korisnika
+	6. Prikazati promjenu na ekranu
+	7. Komponenta App smije biti jedina komponenta sa stanjima (statefull), komponenta App mora biti definirana klasom
