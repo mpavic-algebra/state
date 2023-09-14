@@ -1,0 +1,2 @@
+Potrebno je promijeniti komponentu App - komponenta App mora biti definirana funkcijom.
+Za čuvanje stanja aplikacije potrebno je koristiti useState hook.
