@@ -1,1 +1,2 @@
-export { default as UserFunction } from  './UserFunction';
+export { default as User } from  './User';
+export { default as NewUser } from  './NewUser';
